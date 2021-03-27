@@ -1,6 +1,0 @@
-Name: Ovidiu Kislaposi
-Mission: 3nd file --> GIT1
-Message: Hello World!
-
-New line to commit new change: this rock
-I updated it in VIM - OMFG :)
