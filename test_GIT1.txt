@@ -1,0 +1,5 @@
+Name: Ovidiu Kislaposi
+Mission: 2nd file --> GIT1
+Message: Hello World!
+
+New line to commit new change: this rocks
