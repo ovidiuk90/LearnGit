@@ -1,3 +1,5 @@
 Name: Ovidiu Kislaposi
 Mission: 1st GIT file
 Message: Hello World!
+
+New line to commit new change: this rocks
